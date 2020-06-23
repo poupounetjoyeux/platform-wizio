@@ -2,13 +2,13 @@
   "name": "wizio",
   "title": "WizIO",
   "description": "Arduino Simulator 2019 Georgi Angelov",
-  "url": "https://github.com/Wiz-IO/platform-wizio",
+  "url": "https://github.com/poupounetjoyeux/platform-wizio",
   "homepage": "http://www.wizio.eu/",
   "license": "Apache-2.0",
   "engines": { "platformio": "^3.0.0" },
   "repository": {
     "type": "",
-    "url": "https://github.com/Wiz-IO/platform-wizio.git"
+    "url": "https://github.com/poupounetjoyeux/platform-wizio"
   },
   "version": "1.0.3",
   "packageRepositories": [
@@ -28,7 +28,7 @@
   "packages": {
     "framework-wizio": {
         "type": "framework",
-        "version": "https://github.com/Wiz-IO/framework-wizio.git"
+        "version": "https://github.com/poupounetjoyeux/framework-wizio.git"
     }
   }
 }
