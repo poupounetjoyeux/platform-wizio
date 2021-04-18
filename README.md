@@ -41,7 +41,7 @@ First install **MinGW-32** or **GCC** on your PC
 
 **PIO Home** > Platforms > Advanced Installation 
 
-paste link https://github.com/Wiz-IO/platform-wizio.git
+paste link https://github.com/poupounetjoyeux/platform-wizio.git
 
 **Manual Install / Reinstall / Remove**
 * .platformio\platforms\wizio
